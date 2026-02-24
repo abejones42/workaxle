@@ -1,0 +1,25 @@
+code,state,location_name,api_key
+L-225,Connecticut,Zen Leaf Waterbury (Caring Nature CT),2c81e469256a40008bac56df45da165d
+L-264,Connecticut,Zen Leaf Naugatuck (CT),591c485eee7a4e47ad7fb2b608248b13
+L-258,Connecticut,Zen Leaf Enfield (CT),cc8e75f081d2413186d0a4a7c146439e
+L-256,Connecticut,Zen Leaf Newington (CT),95f67c9417444cfea9558b6096b19375
+L-255,Connecticut,Zen Leaf Norwich (CT),ada11031ae3548d9ac7f13662fb53e3c
+L-221,Connecticut,Zen Leaf Meriden (Willow Brook CT),464332d184954b48ae1a9e8a48220247
+L-488,Connecticut,Zen Leaf Ashford (CT),ca0613ec7565432e907b7830151647c8
+L-131,Massachusetts,Zen Leaf Plymouth (MA),bc1ca843c89d4272a13fc8a96574efb9
+L-130,Massachusetts,Zen Leaf Sharon (MA),101e63f6c6764b4987da38bf8f8e8139
+L-130,Massachusetts,Zen Leaf Sharon (MA),dc4e7a6e1b9a44cea3c3b4e06f85c1a6
+L-119,Michigan,Zen Leaf Buchanan (MI),4820345257834c48acc93b059f2a137c
+L-119,Michigan,Zen Leaf Buchanan (MI),7c0d711090a149dcbed2deb82d4aa4d5
+L-487,Ohio,Zen Leaf Antwerp (OH),f8eeae2805494edd8ebdd95c6cdae39e
+L-122,Ohio,Zen Leaf Cincinnati (OH),1548ec0899364ed58fa30b54102f0101
+L-121,Ohio,Zen Leaf Newark (OH),75c6859520db40d0807559141726d226
+L-120,Ohio,Zen Leaf Canton (OH),127e09ed011a44bdb4a1e635dbf79c9b
+L-164,Ohio,Zen Leaf Bowling Green (OH),0be3629287004f5b97d035ac4fad45dd
+L-205,Ohio,Zen Leaf Dayton (OH),f45cc891c4af44a7b9629896cafd5584
+L-479,Virginia,Zen Leaf Portsmouth (VA),58c1cd4e92154aa98dd95271b04c731a
+L-480,Virginia,Zen Leaf Suffolk (VA),b6ae03376b914595b4acdc0bfe16eb90
+L-481,Virginia,Zen Leaf Williamsburg (VA),402407b57f5c45d3ab1bbf986e7d2435
+L-482,Virginia,Zen Leaf Virginia Beach (VA),86388c4e9ceb45b5b3506a42c14ba0e5
+L-483,Virginia,Zen Leaf Norfolk (VA),56fdd26544a64620a37f306f882e817d
+L-484,Virginia,Zen Leaf Hampton (VA),406c607feb7043e4b4f499288e860ec6
