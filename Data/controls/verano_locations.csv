@@ -1,0 +1,227 @@
+branch_id,department_id,name,location,timezone
+OH,L-108,Verano Ohio CPG,Verano Ohio CPG,-05:00
+MA,WFH Lanham,"Boston, MA","Boston, MA",-05:00
+PA,WFH Philli,"King Of Prussia, PA","King Of Prussia, PA",-05:00
+PA,WFH CC PA,"WFH Glenside, PA - CC","WFH Glenside, PA - CC",-05:00
+PA,WFH Ewing,Remote- PA,Remote- PA,-05:00
+FL,WFH JL FL,"WFH Destin, FL - JL","WFH Destin, FL - JL",-05:00
+FL,WFH JR FL,"WFH Tampa, FL - JR","WFH Tampa, FL - JR",-05:00
+PA,WFH - Gera,"Coraopolis, PA","Coraopolis, PA",-05:00
+NJ,WFH Branch,"WFH Branchburg, NJ JA","WFH Branchburg, NJ JA",-05:00
+PA,L-196.1,Verano Pennsylvania Corporate Office (AK),Verano Pennsylvania Corporate Office (AK),-05:00
+NV,L-242.1,Verano Corporate Nevada (Zen-Reno),Verano Corporate Nevada (Zen-Reno),-08:00
+CT,L-232.1,Verano Corporate Connecticut (CPG),Verano Corporate Connecticut (CPG),-05:00
+NV,L-242,Verano Corporate Nevada (CPG),Verano Corporate Nevada (CPG),-08:00
+PA,L-245,Verano Corporate PA (Zen-Jenkintown),Verano Corporate PA (Zen-Jenkintown),-05:00
+IL,L-105.1,Verano Corporate Illinois (CPG),Verano Corporate Illinois (CPG),-06:00
+NV,L-107.1,Regional Corporate Nevada (CPG),Regional Corporate Nevada (CPG),-08:00
+VA,L-167.1,Regional Corporate West Virginia (CPG),Regional Corporate West Virginia (CPG),-05:00
+OH,L-108.1,Regional Corporate Ohio (CPG),Regional Corporate Ohio (CPG),-05:00
+OH,L-120.1,Regional Corporate Ohio (Zen-Canton),Regional Corporate Ohio (Zen-Canton),-05:00
+OH,L-164.1,Regional Corporate Ohio (Zen-Bowling Green),Regional Corporate Ohio (Zen-Bowling Green),-05:00
+MD,L-106.1,Verano Corporate Maryland (CPG),Verano Corporate Maryland (CPG),-05:00
+MA,L-109.1,Verano Corporate Massachusetts (CPG),Verano Corporate Massachusetts (CPG),-05:00
+PA,L-192.1,Verano Corporate PA (Zen-Cranberry),Verano Corporate PA (Zen-Cranberry),-05:00
+PA,L-207.1,Verano Corporate PA (Zen-Chester),Verano Corporate PA (Zen-Chester),-05:00
+VA,L-479,Zen Leaf Portsmouth (VA),Zen Leaf Portsmouth (VA),-05:00
+VA,L-480,Zen Leaf Suffolk (VA),Zen Leaf Suffolk (VA),-05:00
+VA,L-481,Zen Leaf Williamsburg (VA),Zen Leaf Williamsburg (VA),-05:00
+VA,L-482,Zen Leaf Virginia Beach (VA),Zen Leaf Virginia Beach (VA),-05:00
+VA,L-483,Zen Leaf Norfolk (VA),Zen Leaf Norfolk (VA),-05:00
+VA,L-484,Zen Leaf Hampton (VA),Zen Leaf Hampton (VA),-05:00
+VA,L-502,Verano Virginia CPG (Portsmouth),Verano Virginia CPG (Portsmouth),-05:00
+PA,L-207.2,Regional Corporate PA (Zen-Chester),Regional Corporate PA (Zen-Chester),-05:00
+IL,L-157,Regional Corporate Illinois (HQ),Regional Corporate Illinois (HQ),-06:00
+MD,L-106,Verano Maryland CPG,Verano Maryland CPG,-05:00
+MD,L-106.2,Regional Corporate Maryland (CPG),Regional Corporate Maryland (CPG),-05:00
+NJ,L-110,Verano New Jersey CPG,Verano New Jersey CPG,-05:00
+NJ,L-110.1,Regional Corporate New Jersey (CPG),Regional Corporate New Jersey (CPG),-05:00
+NJ,L-110.2,Verano Corporate New Jersey (CPG),Verano Corporate New Jersey (CPG),-05:00
+PA,L-154.1,Regional Corporate PA (Zen-York),Regional Corporate PA (Zen-York),-05:00
+PA,L-192.2,Regional Corporate PA (Zen- Cranberry),Regional Corporate PA (Zen- Cranberry),-05:00
+PA,L-245.1,Regional Corporate PA (Zen-Jenkintown),Regional Corporate PA (Zen-Jenkintown),-05:00
+FL,L-100.3,Regional Corporate Florida (Chicago),Regional Corporate Florida (Chicago),-05:00
+CT,L-246,Regional Corporate Connecticut (CPG),Regional Corporate Connecticut (CPG),-05:00
+MA,L-109.2,Regional Corporate Massachusetts (CPG),Regional Corporate Massachusetts (CPG),-05:00
+FL,L-302.2,Regional Corporate Florida (Apollo Beach),Regional Corporate Florida (Apollo Beach),-05:00
+FL,L-371,Verano Florida CPG  (Palatka),Verano Florida CPG  (Palatka),-05:00
+FL,L-303,Verano Florida CPG (Apollo Beach),Verano Florida CPG (Apollo Beach),-05:00
+FL,L-302,Verano Corporate Florida (Apollo Beach),Verano Corporate Florida (Apollo Beach),-05:00
+CT,L-232,Verano Connecticut CPG (CT Pharma),Verano Connecticut CPG (CT Pharma),-05:00
+AZ,L-175.1,Regional Corporate Arizona (Chandler),Regional Corporate Arizona (Chandler),-07:00
+AZ,L-501,Verano Arizona CPG (Chino Valley),Verano Arizona CPG (Chino Valley),-07:00
+AZ,L-503,Verano Arizona CPG (Tempe),Verano Arizona CPG (Tempe),-07:00
+AZ,L-175,Verano Corporate Arizona (Chandler),Verano Corporate Arizona (Chandler),-07:00
+PA,L-196,Verano Pennsylvania CPG (Chester),Verano Pennsylvania CPG (Chester),-05:00
+VA,L-167,Verano West Virginia CPG,Verano West Virginia CPG,-05:00
+FL,L-308,MUV Boynton Beach (FL),MUV Boynton Beach (FL),-05:00
+FL,L-315,MUV Deerfield Beach (FL),MUV Deerfield Beach (FL),-05:00
+FL,L-369,MUV Hollywood (FL),MUV Hollywood (FL),-05:00
+FL,L-390,MUV Kendall (FL),MUV Kendall (FL),-05:00
+FL,L-418,MUV Miami NE 19th (FL),MUV Miami NE 19th (FL),-05:00
+FL,L-385,MUV N Miami Biscayne (FL),MUV N Miami Biscayne (FL),-05:00
+FL,L-414,MUV Naranja (FL),MUV Naranja (FL),-05:00
+FL,L-378,MUV Tamarac (FL),MUV Tamarac (FL),-05:00
+FL,L-351,MUV West Palm Beach (FL),MUV West Palm Beach (FL),-05:00
+FL,L-391,MUV West Palm Beach II (FL),MUV West Palm Beach II (FL),-05:00
+AZ,L-172,Zen Leaf Emerald (AZ),Zen Leaf Emerald (AZ),-07:00
+AZ,L-176,Zen Leaf Chandler (AZ),Zen Leaf Chandler (AZ),-07:00
+AZ,L-177,Zen Leaf Mesa (AZ),Zen Leaf Mesa (AZ),-07:00
+AZ,L-178,Zen Leaf Gilbert (AZ),Zen Leaf Gilbert (AZ),-07:00
+AZ,L-407,Zen Leaf Phoenix-Cave Creek (AZ),Zen Leaf Phoenix-Cave Creek (AZ),-07:00
+AZ,L-477,Zen Leaf Prescott (AZ),Zen Leaf Prescott (AZ),-07:00
+AZ,L-478,Zen Leaf Tempe (AZ),Zen Leaf Tempe (AZ),-07:00
+AZ,L-173,Zen Leaf Arcadia (AZ),Zen Leaf Arcadia (AZ),-07:00
+IL,L-105,Verano Illinois CPG,Verano Illinois CPG,-06:00
+MA,L-109,Verano Massachusetts CPG,Verano Massachusetts CPG,-05:00
+IL,L-159,Zen Leaf Prospect Heights (IL),Zen Leaf Prospect Heights (IL),-06:00
+IL,L-168,Zen Leaf West Loop (IL),Zen Leaf West Loop (IL),-06:00
+IL,L-170,Zen Leaf Medical District (IL),Zen Leaf Medical District (IL),-06:00
+IL,L-235,Zen Leaf Rogers Park (IL),Zen Leaf Rogers Park (IL),-06:00
+IL,L-236,Zen Leaf Lombard (IL),Zen Leaf Lombard (IL),-06:00
+NV,L-107,Verano Nevada CPG,Verano Nevada CPG,-08:00
+FL,L-500,Verano Florida CPG (Ocala),Verano Florida CPG (Ocala),-05:00
+MD,L-115,Zen Leaf Waldorf (MD),Zen Leaf Waldorf (MD),-05:00
+NV,L-126,Zen Leaf Las Vegas (NV),Zen Leaf Las Vegas (NV),-08:00
+NV,L-162,Zen Leaf Flamingo (NV),Zen Leaf Flamingo (NV),-08:00
+NV,L-165,Zen Leaf North Las Vegas (NV),Zen Leaf North Las Vegas (NV),-08:00
+NV,L-239,Zen Leaf Carson City (NV),Zen Leaf Carson City (NV),-08:00
+NV,L-241,Zen Leaf Reno (NV),Zen Leaf Reno (NV),-08:00
+MI,L-119,Zen Leaf Buchanan (MI),Zen Leaf Buchanan (MI),-05:00
+IL,L-111,Zen Leaf St. Charles (IL),Zen Leaf St. Charles (IL),-06:00
+IL,L-158,Zen Leaf Highland Park (IL),Zen Leaf Highland Park (IL),-06:00
+IL,L-151,Zen Leaf Naperville (IL),Zen Leaf Naperville (IL),-06:00
+IL,L-148,Zen Leaf Evanston (IL),Zen Leaf Evanston (IL),-06:00
+IL,L-112,Zen Leaf Aurora (IL),Zen Leaf Aurora (IL),-06:00
+VA,L-479.1,Regional Corporate Virginia (Portsmouth),Regional Corporate Virginia (Portsmouth),-05:00
+NJ,L-129,Zen Leaf Neptune (NJ),Zen Leaf Neptune (NJ),-05:00
+NJ,L-161,Zen Leaf Lawrence (NJ),Zen Leaf Lawrence (NJ),-05:00
+NJ,L-127,Zen Leaf Elizabeth (NJ),Zen Leaf Elizabeth (NJ),-05:00
+NJ,L-470,Zen Leaf Mount Holly (NJ),Zen Leaf Mount Holly (NJ),-05:00
+OH,L-205,Zen Leaf Dayton (OH),Zen Leaf Dayton (OH),-05:00
+OH,L-121,Zen Leaf Newark (OH),Zen Leaf Newark (OH),-05:00
+OH,L-122,Zen Leaf Cincinnati (OH),Zen Leaf Cincinnati (OH),-05:00
+OH,L-164,Zen Leaf Bowling Green (OH),Zen Leaf Bowling Green (OH),-05:00
+OH,L-120,Zen Leaf Canton (OH),Zen Leaf Canton (OH),-05:00
+OH,L-487,Zen Leaf Antwerp (OH),Zen Leaf Antwerp (OH),-05:00
+PA,L-207,Zen Leaf Chester (PA),Zen Leaf Chester (PA),-05:00
+MD,L-114,Zen Leaf Elkridge (MD),Zen Leaf Elkridge (MD),-05:00
+MD,L-116,Zen Leaf Pasadena (MD),Zen Leaf Pasadena (MD),-05:00
+MD,L-117,Zen Leaf Germantown (MD),Zen Leaf Germantown (MD),-05:00
+MD,L-118,Zen Leaf Towson (MD),Zen Leaf Towson (MD),-05:00
+PA,L-153,Zen Leaf Altoona (PA),Zen Leaf Altoona (PA),-05:00
+PA,L-192,Zen Leaf Cranberry (PA),Zen Leaf Cranberry (PA),-05:00
+PA,L-193,Zen Leaf Monroeville (PA),Zen Leaf Monroeville (PA),-05:00
+PA,L-194,Zen Leaf Washington (PA),Zen Leaf Washington (PA),-05:00
+PA,L-250,Zen Leaf McKnight (PA),Zen Leaf McKnight (PA),-05:00
+PA,L-227,Zen Leaf Kensington (PA),Zen Leaf Kensington (PA),-05:00
+PA,L-208,Zen Leaf Robinson (PA),Zen Leaf Robinson (PA),-05:00
+PA,L-154,Zen Leaf York (PA),Zen Leaf York (PA),-05:00
+PA,L-155,Zen Leaf Harrisburg (PA),Zen Leaf Harrisburg (PA),-05:00
+PA,L-174,Zen Leaf Wynnewood (PA),Zen Leaf Wynnewood (PA),-05:00
+PA,L-182,Zen Leaf Tremont (PA),Zen Leaf Tremont (PA),-05:00
+PA,L-183,Zen Leaf Abington (PA),Zen Leaf Abington (PA),-05:00
+PA,L-184,Zen Leaf Malvern (PA),Zen Leaf Malvern (PA),-05:00
+PA,L-185,Zen Leaf Sellersville (PA),Zen Leaf Sellersville (PA),-05:00
+PA,L-215,Zen Leaf West Chester (PA),Zen Leaf West Chester (PA),-05:00
+PA,L-220,Zen Leaf Clifton Heights (PA),Zen Leaf Clifton Heights (PA),-05:00
+PA,L-265,Zen Leaf Norristown (PA),Zen Leaf Norristown (PA),-05:00
+PA,L-473,Zen Leaf Fairless Hills (PA),Zen Leaf Fairless Hills (PA),-05:00
+AZ,L-181,Verano Arizona CPG (Winslow),Verano Arizona CPG (Winslow),-07:00
+FL,L-415,MUV Ft. Pierce (FL),MUV Ft. Pierce (FL),-05:00
+FL,L-380,MUV Hobe Sound (FL),MUV Hobe Sound (FL),-05:00
+FL,L-330,MUV Merritt Island (FL),MUV Merritt Island (FL),-05:00
+FL,L-340,MUV Port St Lucie (FL),MUV Port St Lucie (FL),-05:00
+FL,L-422,MUV Satellite Beach (FL),MUV Satellite Beach (FL),-05:00
+FL,L-342,MUV Sebastian (FL),MUV Sebastian (FL),-05:00
+FL,L-372,MUV Stuart (FL),MUV Stuart (FL),-05:00
+FL,L-350,MUV Wellington (FL),MUV Wellington (FL),-05:00
+FL,L-370,MUV West Melbourne (FL),MUV West Melbourne (FL),-05:00
+FL,L-471,MUV ﻿Melbourne-Wickham (FL),MUV ﻿Melbourne-Wickham (FL),-05:00
+WV,L-195,Zen Leaf Clarksburg (WV),Zen Leaf Clarksburg (WV),-05:00
+WV,L-413,Zen Leaf Buckhannon (WV),Zen Leaf Buckhannon (WV),-05:00
+WV,L-222,Zen Leaf Morgantown (WV),Zen Leaf Morgantown (WV),-05:00
+WV,L-226,Zen Leaf Westover (WV),Zen Leaf Westover (WV),-05:00
+WV,L-228,Zen Leaf Wheeling (WV),Zen Leaf Wheeling (WV),-05:00
+FL,L-489,MUV New Smyrna Beach (FL),MUV New Smyrna Beach (FL),-05:00
+FL,L-321,MUV Jacksonville Beach (FL),MUV Jacksonville Beach (FL),-05:00
+FL,L-323,MUV Jacksonville MP (FL),MUV Jacksonville MP (FL),-05:00
+FL,L-324,MUV North Jacksonville (FL),MUV North Jacksonville (FL),-05:00
+FL,L-367,MUV Orange Park (FL),MUV Orange Park (FL),-05:00
+FL,L-336,MUV Ormond Beach (FL),MUV Ormond Beach (FL),-05:00
+FL,L-392,MUV Palatka (FL),MUV Palatka (FL),-05:00
+FL,L-376,MUV Port Orange (FL),MUV Port Orange (FL),-05:00
+FL,L-345,MUV St Augustine (FL),MUV St Augustine (FL),-05:00
+FL,L-386,MUV Titusville (FL),MUV Titusville (FL),-05:00
+FL,L-421,MUV Yulee (FL),MUV Yulee (FL),-05:00
+FL,L-311,MUV Brandon (FL),MUV Brandon (FL),-05:00
+FL,L-325,MUV Key West (FL),MUV Key West (FL),-05:00
+FL,L-329,MUV Lutz (FL),MUV Lutz (FL),-05:00
+FL,L-384,MUV Port Richey (FL),MUV Port Richey (FL),-05:00
+FL,L-344,MUV Spring Hill (FL),MUV Spring Hill (FL),-05:00
+FL,L-348,MUV Tampa - North Dale (FL),MUV Tampa - North Dale (FL),-05:00
+FL,L-381,MUV Tampa - Preserve Walk (FL),MUV Tampa - Preserve Walk (FL),-05:00
+FL,L-349,MUV Tampa - West Kennedy (FL),MUV Tampa - West Kennedy (FL),-05:00
+FL,L-394,MUV Tampa Gandy (FL),MUV Tampa Gandy (FL),-05:00
+FL,L-397,MUV Zephyrhills (FL),MUV Zephyrhills (FL),-05:00
+FL,L-492,MUV-Lehigh Acres (FL),MUV-Lehigh Acres (FL),-05:00
+FL,L-307,MUV Bonita Springs (FL),MUV Bonita Springs (FL),-05:00
+FL,L-312,MUV Cape Coral (FL),MUV Cape Coral (FL),-05:00
+FL,L-377,MUV Fort Myers Cypress (FL),MUV Fort Myers Cypress (FL),-05:00
+FL,L-382,MUV Fort Myers Summerlin (FL),MUV Fort Myers Summerlin (FL),-05:00
+FL,L-318,MUV Ft Myers (FL),MUV Ft Myers (FL),-05:00
+FL,L-374,MUV Marco Island (FL),MUV Marco Island (FL),-05:00
+FL,L-333,MUV North Port (FL),MUV North Port (FL),-05:00
+FL,L-420,MUV Okeechobee (FL),MUV Okeechobee (FL),-05:00
+FL,L-373,MUV Punta Gorda (FL),MUV Punta Gorda (FL),-05:00
+FL,L-387,MUV Sebring (FL),MUV Sebring (FL),-05:00
+FL,L-412,MUV Orlando-Edgewater (FL),MUV Orlando-Edgewater (FL),-07:00
+FL,L-490,MUV-Miramar Beach (FL),MUV-Miramar Beach (FL),-05:00
+FL,L-491,MUV-Deltona (FL),MUV-Deltona (FL),-05:00
+FL,L-419,MUV Apopka (FL),MUV Apopka (FL),-05:00
+FL,L-328,MUV Longwood (FL),MUV Longwood (FL),-05:00
+FL,L-395,MUV Navarre (FL),MUV Navarre (FL),-05:00
+FL,L-368,MUV Orange City (FL),MUV Orange City (FL),-05:00
+FL,L-416,MUV Orlando Colonial (FL),MUV Orlando Colonial (FL),-05:00
+FL,L-334,MUV Orlando-Garland (FL),MUV Orlando-Garland (FL),-05:00
+FL,L-338,MUV Panama City (FL),MUV Panama City (FL),-06:00
+FL,L-339,MUV Pensacola (FL),MUV Pensacola (FL),-06:00
+FL,L-343,MUV Shalimar (FL),MUV Shalimar (FL),-06:00
+FL,L-347,MUV Tallahassee (FL),MUV Tallahassee (FL),-05:00
+FL,L-417,MUV Winter Springs (FL),MUV Winter Springs (FL),-05:00
+FL,L-305,MUV Apollo Beach (FL),MUV Apollo Beach (FL),-05:00
+FL,L-309,MUV Bradenton (64) (FL),MUV Bradenton (64) (FL),-05:00
+FL,L-310,MUV Bradenton (75) (FL),MUV Bradenton (75) (FL),-05:00
+FL,L-313,MUV Clearwater I (FL),MUV Clearwater I (FL),-05:00
+FL,L-314,MUV Clearwater II (FL),MUV Clearwater II (FL),-05:00
+FL,L-366,MUV Pinellas Park (FL),MUV Pinellas Park (FL),-05:00
+FL,L-388,MUV Sarasota - Main St (FL),MUV Sarasota - Main St (FL),-05:00
+FL,L-341,MUV Sarasota (FL),MUV Sarasota (FL),-05:00
+FL,L-346,MUV St Petersburg (FL),MUV St Petersburg (FL),-05:00
+FL,L-389,MUV Venice (FL),MUV Venice (FL),-05:00
+FL,L-396,MUV Auburndale (FL),MUV Auburndale (FL),-05:00
+FL,L-320,MUV Gainesville (FL),MUV Gainesville (FL),-05:00
+FL,L-326,MUV Lady Lake (FL),MUV Lady Lake (FL),-05:00
+FL,L-411,MUV Lake City (FL),MUV Lake City (FL),-07:00
+FL,L-327,MUV Lakeland (FL),MUV Lakeland (FL),-05:00
+FL,L-379,MUV Ocala (FL),MUV Ocala (FL),-05:00
+FL,L-335,MUV Orlando-Vineland (FL),MUV Orlando-Vineland (FL),-05:00
+FL,L-383,MUV Winter Haven (FL),MUV Winter Haven (FL),-05:00
+FL,L-469,MUV Crystal River (FL),MUV Crystal River (FL),-05:00
+FL,L-423,MUV Haines City (FL),MUV Haines City (FL),-05:00
+AR,L-139,Zen Leaf El Dorado (AR),Zen Leaf El Dorado (AR),-06:00
+AZ,L-408,Verano Arizona CPG (AZ),Verano Arizona CPG (AZ),-07:00
+AZ,L-400,Verano Arizona CPG (Coolidge),Verano Arizona CPG (Coolidge),-07:00
+NV,L-243,Verano NV CPG (Reno),Verano NV CPG (Reno),-08:00
+NV,L-244,Verano NV CPG (Carson City),Verano NV CPG (Carson City),-08:00
+CT,L-259,Zen Leaf Stratford (CT),Zen Leaf Stratford (CT),-05:00
+CT,L-260,Zen Leaf Stamford (CT),Zen Leaf Stamford (CT),-05:00
+MA,L-130,Zen Leaf Sharon (MA),Zen Leaf Sharon (MA),-05:00
+MA,L-131,Zen Leaf Plymouth (MA),Zen Leaf Plymouth (MA),-05:00
+CT,L-221,Zen Leaf Meriden (Willow Brook CT),Zen Leaf Meriden (Willow Brook CT),-05:00
+CT,L-225,Zen Leaf Waterbury (Caring Nature CT),Zen Leaf Waterbury (Caring Nature CT),-05:00
+CT,L-255,Zen Leaf Norwich (CT),Zen Leaf Norwich (CT),-05:00
+CT,L-256,Zen Leaf Newington (CT),Zen Leaf Newington (CT),-05:00
+CT,L-258,Zen Leaf Enfield (CT),Zen Leaf Enfield (CT),-05:00
+CT,L-264,Zen Leaf Naugatuck (CT),Zen Leaf Naugatuck (CT),-05:00
+CT,L-488,Zen Leaf Ashford (CT),Zen Leaf Ashford (CT),-05:00
